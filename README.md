@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@jwlodek](https://github.com/jwlodek/)
+* [@mrakitin](https://github.com/mrakitin/)
 

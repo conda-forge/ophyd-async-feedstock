@@ -145,4 +145,5 @@ Feedstock Maintainers
 
 * [@jwlodek](https://github.com/jwlodek/)
 * [@mrakitin](https://github.com/mrakitin/)
+* [@thopkins32](https://github.com/thopkins32/)
 

@@ -13,7 +13,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -24,7 +24,7 @@ requirements:
   run:
     - python >={{ python_min }}
     - numpy
-    - bluesky >=1.13.1rc2
+    - bluesky-base >=1.13.1rc2
     - event-model >=1.23
     - pyyaml
     - colorlog

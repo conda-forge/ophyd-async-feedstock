@@ -1,5 +1,5 @@
 {% set name = "ophyd-async" %}
-{% set version = "0.21.4" %}
+{% set version = "0.21.5" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/ophyd_async-{{ version }}.tar.gz
-  sha256: 158d3751c0f40b6e9a3788e38bdd8f7a3e7d084ace4fdd15ebf03e6856f95949
+  sha256: e369c13550d82e134f2abd4b9784f89204de4f201da23ebb628892c27829fd04
 
 build:
   noarch: python
